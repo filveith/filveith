@@ -1,7 +1,7 @@
 
 ## **👋** Hi there, I'm Fil Veith !
 
-I'm a 19 years old Germano-French student in Computer Science. I love learning new things and developp my skills !
+I'm a 19 years old German-French student in Computer Science. I love learning new things and developp my skills !
 
 
 ```
