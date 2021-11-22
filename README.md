@@ -30,7 +30,7 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 
-<img style="margin: 10px" src="https://png2.cleanpng.com/sh/f3d8ff37de63f5bc33d66c66f118f4ac/L0KzQYm3VcEzN5l4j5H0aYP2gLBuTfdqfJl6ep95YXfog37zjBdwNZR0heJAdHX1PbrqjB50NWZmfqk5ZUG8cbTpg8I3NmEAUaY8MUO7QYa5VsE1OGU5Sak5N0WxgLBu/kisspng-github-pages-logo-computer-icons-5af70e19acbc26.0994313815261404417075.png" alt="GitHub" height="50" />  
+<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="50" />  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 
@@ -51,7 +51,7 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 <img style="margin: 10px" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="50" /> 
 
-<img style="margin: 10px" src="https://png2.cleanpng.com/sh/c9c1e52129c73c93a7b0db7569b517ec/L0KzQYm3VMA0N5J9fZH0aYP2gLBuTfNwdaF6jNd7LXnmf7B6Tf1qa6N0i9HvdD35ecT8gfwue6V6fNt4LYbsg8bojL10fKZpRdtsbz24cbS6U8E1OZZofNYDNT65RIOBUcg5QGI6SqQCNEG4RoqCV8AzNqFzf3==/kisspng-computer-icons-microsoft-visual-studio-visual-stud-ico-5ac33141ecdd85.6428188815227415699702.png" alt="Visual Studio" height="50" /> 
+<img style="margin: 10px" src="https://png2.cleanpng.com/sh/b98b545dec0437b7809eb1ccd654e9c0/L0KzQYm3VMA0N5J9fZH0aYP2gLBuTfNwdaF6jNd7LXnmf7B6Tf1qa6N0i9HvdD35ecT8gfwue6V6fNt4LYbsg8bojL10fKZpRdtsbz24cbS6U8E1OZZofNYDNT65RIOBUcg5QGI6SqQCNEG4RoqCV8AzNqFzf3==/kisspng-computer-icons-microsoft-visual-studio-visual-stud-ico-5ac33141ecdd85.6428188815227415699702.png" alt="Visual Studio" height="50" /> 
 
 <img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_-400x400.png" alt="Photoshop" height="50" />  
 
