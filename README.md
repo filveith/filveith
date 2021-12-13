@@ -51,7 +51,7 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 <img style="margin: 10px" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="50" /> 
 
-<img style="margin: 10px" src="http://assets.stickpng.com/images/58482afbcef1014c0b5e4a21.png" alt="Visual Studio" height="50" /> 
+<img style="margin: 10px" src="https://www.pikpng.com/pngl/b/216-2164742_visual-studio-2013-logo-visual-studio-logo-png.png" alt="Visual Studio" height="50" /> 
 
 <img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_-400x400.png" alt="Photoshop" height="50" />  
 
