@@ -10,10 +10,6 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 ### **Currently working on :**
   - **Spotify add-on ;)**
-  - **Minesweeper bot for https://démineur.eu/**
-      - Bot that plays minesweeper using JS with Puppeteer to scrap the page
-  - **Manuscrit number recognition program** 
-    - Program that recognises a manuscrit written number in python without any Image recognition library
 
 ## **My Skill Set**  
 <tr><td valign="top" width="100%">
