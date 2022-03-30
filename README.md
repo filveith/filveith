@@ -16,8 +16,6 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 <div align="center">  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
   
 <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React and react native" height="50" />
@@ -44,14 +42,7 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
 
 <img style="margin: 10px" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="50" /> 
 
@@ -65,10 +56,7 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 </div>
 
-
-<br/>  
-
-
+<br/>
 
 ## **Listen with me**
 
