@@ -10,6 +10,11 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 ### **Currently working on :**
   - **Spotify add-on ;)**
+    - React Native, local server hosting
+  - **A tool to convert your spotify/deezer playlist to a deezer/spotify plalyist**
+    - React and some apis
+  - **A bot that plays Solitaire**
+    - Web Scrapping + JS 
 
 ## **My Skill Set**  
 <tr><td valign="top" width="100%">
