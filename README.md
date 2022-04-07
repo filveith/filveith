@@ -9,13 +9,13 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 ```
 
 ### **Currently working on :**
-  - **Spotify add-on ;)**
+  - **Spotify add-on ;)** (not public)
     - React Native, local server hosting
-  - **My Portfolio**
+  - **My Portfolio** (not public yet)
     - NextJS 
-  - **A tool to convert your spotify/deezer playlist to a deezer/spotify plalyist**
+  - **A tool to convert your spotify/deezer playlist to a deezer/spotify plalyist** (not public yet)
     - React and some apis
-  - **A bot that plays Solitaire**
+  - **A bot that plays Solitaire** (not public yet)
     - Web Scrapping + JS 
 
 ## **My Skill Set**  
