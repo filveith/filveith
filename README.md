@@ -23,43 +23,43 @@ I'm a 19 years old German-French student in Computer Science. I love learning ne
 
 <div align="center">  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213049339088946/unknown.png" alt="JavaScript" height="50" /> 
   
-<img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React and react native" height="50" />
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213291472072754/unknown.png" alt="React and react native" height="50" />
   
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="NextJS" height="50" /> 
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213468517826601/unknown.png" alt="NextJS" height="50" /> 
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213758574932098/unknown.png" alt="Node.js" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213773712171068/unknown.png" alt="PHP" height="50" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213785959538718/unknown.png" alt="Python" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213809535717428/unknown.png" alt="Git" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213839403364442/unknown.png" alt="GitLab" height="50" />  
 
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213856029585428/unknown.png" alt="GitHub" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213873867968663/unknown.png" alt="HTML5" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213888602546317/unknown.png" alt="CSS3" height="50" />  
 
-<img style="margin: 10px" src="https://logo.clearbit.com/raspberrypi.com" alt="Raspberry Pi" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213905111326720/unknown.png" alt="Raspberry Pi" height="50" />  
+  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213916725358623/unknown.png" alt="Arduino" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213934626656266/unknown.png" alt="MySQL" height="50" />   
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213950015553646/unknown.png" alt="VS Code" height="50" /> 
 
-<img style="margin: 10px" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="50" /> 
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213965421215764/unknown.png" alt="Visual Studio" height="50" /> 
 
-<img style="margin: 10px" src="https://www.pikpng.com/pngl/b/216-2164742_visual-studio-2013-logo-visual-studio-logo-png.png" alt="Visual Studio" height="50" /> 
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998214886209364098/unknown.png" alt="Photoshop" height="50" />  
 
-<img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_-400x400.png" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998213995137871963/unknown.png" alt="Lightroom" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
+<img style="margin: 10px" src="https://cdn.discordapp.com/attachments/998212816798490644/998214012875591790/unknown.png" alt="Adobe XD" height="50" />  
 
 </div>
 
